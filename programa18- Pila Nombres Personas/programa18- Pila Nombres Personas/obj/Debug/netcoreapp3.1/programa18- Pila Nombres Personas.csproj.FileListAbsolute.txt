@@ -1,0 +1,13 @@
+C:\Users\neito\Desktop\EBD\Unidad 3\programa18- Pila Nombres Personas\programa18- Pila Nombres Personas\bin\Debug\netcoreapp3.1\programa18- Pila Nombres Personas.exe
+C:\Users\neito\Desktop\EBD\Unidad 3\programa18- Pila Nombres Personas\programa18- Pila Nombres Personas\bin\Debug\netcoreapp3.1\programa18- Pila Nombres Personas.deps.json
+C:\Users\neito\Desktop\EBD\Unidad 3\programa18- Pila Nombres Personas\programa18- Pila Nombres Personas\bin\Debug\netcoreapp3.1\programa18- Pila Nombres Personas.runtimeconfig.json
+C:\Users\neito\Desktop\EBD\Unidad 3\programa18- Pila Nombres Personas\programa18- Pila Nombres Personas\bin\Debug\netcoreapp3.1\programa18- Pila Nombres Personas.runtimeconfig.dev.json
+C:\Users\neito\Desktop\EBD\Unidad 3\programa18- Pila Nombres Personas\programa18- Pila Nombres Personas\bin\Debug\netcoreapp3.1\programa18- Pila Nombres Personas.dll
+C:\Users\neito\Desktop\EBD\Unidad 3\programa18- Pila Nombres Personas\programa18- Pila Nombres Personas\bin\Debug\netcoreapp3.1\programa18- Pila Nombres Personas.pdb
+C:\Users\neito\Desktop\EBD\Unidad 3\programa18- Pila Nombres Personas\programa18- Pila Nombres Personas\obj\Debug\netcoreapp3.1\programa18- Pila Nombres Personas.csprojAssemblyReference.cache
+C:\Users\neito\Desktop\EBD\Unidad 3\programa18- Pila Nombres Personas\programa18- Pila Nombres Personas\obj\Debug\netcoreapp3.1\programa18- Pila Nombres Personas.AssemblyInfoInputs.cache
+C:\Users\neito\Desktop\EBD\Unidad 3\programa18- Pila Nombres Personas\programa18- Pila Nombres Personas\obj\Debug\netcoreapp3.1\programa18- Pila Nombres Personas.AssemblyInfo.cs
+C:\Users\neito\Desktop\EBD\Unidad 3\programa18- Pila Nombres Personas\programa18- Pila Nombres Personas\obj\Debug\netcoreapp3.1\programa18- Pila Nombres Personas.csproj.CoreCompileInputs.cache
+C:\Users\neito\Desktop\EBD\Unidad 3\programa18- Pila Nombres Personas\programa18- Pila Nombres Personas\obj\Debug\netcoreapp3.1\programa18- Pila Nombres Personas.dll
+C:\Users\neito\Desktop\EBD\Unidad 3\programa18- Pila Nombres Personas\programa18- Pila Nombres Personas\obj\Debug\netcoreapp3.1\programa18- Pila Nombres Personas.pdb
+C:\Users\neito\Desktop\EBD\Unidad 3\programa18- Pila Nombres Personas\programa18- Pila Nombres Personas\obj\Debug\netcoreapp3.1\programa18- Pila Nombres Personas.genruntimeconfig.cache

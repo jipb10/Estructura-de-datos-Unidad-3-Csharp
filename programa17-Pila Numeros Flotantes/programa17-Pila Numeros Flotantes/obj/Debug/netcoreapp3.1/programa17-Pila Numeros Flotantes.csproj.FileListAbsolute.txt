@@ -1,0 +1,13 @@
+C:\Users\neito\Desktop\EBD\Unidad 3\programa17-Pila Numeros Flotantes\programa17-Pila Numeros Flotantes\bin\Debug\netcoreapp3.1\programa17-Pila Numeros Flotantes.exe
+C:\Users\neito\Desktop\EBD\Unidad 3\programa17-Pila Numeros Flotantes\programa17-Pila Numeros Flotantes\bin\Debug\netcoreapp3.1\programa17-Pila Numeros Flotantes.deps.json
+C:\Users\neito\Desktop\EBD\Unidad 3\programa17-Pila Numeros Flotantes\programa17-Pila Numeros Flotantes\bin\Debug\netcoreapp3.1\programa17-Pila Numeros Flotantes.runtimeconfig.json
+C:\Users\neito\Desktop\EBD\Unidad 3\programa17-Pila Numeros Flotantes\programa17-Pila Numeros Flotantes\bin\Debug\netcoreapp3.1\programa17-Pila Numeros Flotantes.runtimeconfig.dev.json
+C:\Users\neito\Desktop\EBD\Unidad 3\programa17-Pila Numeros Flotantes\programa17-Pila Numeros Flotantes\bin\Debug\netcoreapp3.1\programa17-Pila Numeros Flotantes.dll
+C:\Users\neito\Desktop\EBD\Unidad 3\programa17-Pila Numeros Flotantes\programa17-Pila Numeros Flotantes\bin\Debug\netcoreapp3.1\programa17-Pila Numeros Flotantes.pdb
+C:\Users\neito\Desktop\EBD\Unidad 3\programa17-Pila Numeros Flotantes\programa17-Pila Numeros Flotantes\obj\Debug\netcoreapp3.1\programa17-Pila Numeros Flotantes.AssemblyInfoInputs.cache
+C:\Users\neito\Desktop\EBD\Unidad 3\programa17-Pila Numeros Flotantes\programa17-Pila Numeros Flotantes\obj\Debug\netcoreapp3.1\programa17-Pila Numeros Flotantes.AssemblyInfo.cs
+C:\Users\neito\Desktop\EBD\Unidad 3\programa17-Pila Numeros Flotantes\programa17-Pila Numeros Flotantes\obj\Debug\netcoreapp3.1\programa17-Pila Numeros Flotantes.csproj.CoreCompileInputs.cache
+C:\Users\neito\Desktop\EBD\Unidad 3\programa17-Pila Numeros Flotantes\programa17-Pila Numeros Flotantes\obj\Debug\netcoreapp3.1\programa17-Pila Numeros Flotantes.dll
+C:\Users\neito\Desktop\EBD\Unidad 3\programa17-Pila Numeros Flotantes\programa17-Pila Numeros Flotantes\obj\Debug\netcoreapp3.1\programa17-Pila Numeros Flotantes.pdb
+C:\Users\neito\Desktop\EBD\Unidad 3\programa17-Pila Numeros Flotantes\programa17-Pila Numeros Flotantes\obj\Debug\netcoreapp3.1\programa17-Pila Numeros Flotantes.genruntimeconfig.cache
+C:\Users\neito\Desktop\EBD\Unidad 3\programa17-Pila Numeros Flotantes\programa17-Pila Numeros Flotantes\obj\Debug\netcoreapp3.1\programa17-Pila Numeros Flotantes.csproj.AssemblyReference.cache

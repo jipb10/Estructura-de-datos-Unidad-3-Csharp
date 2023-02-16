@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programa18- Pila Nombres Personas", "programa18- Pila Nombres Personas\programa18- Pila Nombres Personas.csproj", "{20BF6529-2D5C-4011-896D-CBBD1B6B94CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20BF6529-2D5C-4011-896D-CBBD1B6B94CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20BF6529-2D5C-4011-896D-CBBD1B6B94CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20BF6529-2D5C-4011-896D-CBBD1B6B94CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20BF6529-2D5C-4011-896D-CBBD1B6B94CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E1B6F78-2C82-4692-95AC-8B59B3F5F1E7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\neito\Desktop\EBD\Unidad 3\programa19- Cola numeros flotantes\programa19- Cola numeros flotantes\bin\Debug\programa19- Cola numeros flotantes.exe.config
+C:\Users\neito\Desktop\EBD\Unidad 3\programa19- Cola numeros flotantes\programa19- Cola numeros flotantes\bin\Debug\programa19- Cola numeros flotantes.exe
+C:\Users\neito\Desktop\EBD\Unidad 3\programa19- Cola numeros flotantes\programa19- Cola numeros flotantes\bin\Debug\programa19- Cola numeros flotantes.pdb
+C:\Users\neito\Desktop\EBD\Unidad 3\programa19- Cola numeros flotantes\programa19- Cola numeros flotantes\obj\Debug\programa19- Cola numeros flotantes.csproj.CoreCompileInputs.cache
+C:\Users\neito\Desktop\EBD\Unidad 3\programa19- Cola numeros flotantes\programa19- Cola numeros flotantes\obj\Debug\programa19- Cola numeros flotantes.exe
+C:\Users\neito\Desktop\EBD\Unidad 3\programa19- Cola numeros flotantes\programa19- Cola numeros flotantes\obj\Debug\programa19- Cola numeros flotantes.pdb
+C:\Users\neito\Desktop\EBD\Unidad 3\programa19- Cola numeros flotantes\programa19- Cola numeros flotantes\obj\Debug\programa19- Cola numeros flotantes.csproj.AssemblyReference.cache
